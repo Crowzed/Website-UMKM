@@ -25,3 +25,8 @@ Technologies used in the project:
 <h2>Project Screenshots:</h2>
 
 <img src="https://albumizr.com/ia/43042c1fb5b3c978079ec064d25cb5a8.jpg" alt="project-screenshot" width="1000" height="400/">
+
+<p>Universitas Internasional Batam</p>
+<p>Sistem Informasi</p>
+<p>2SIMB</p>
+<p>2024/2025</p>
