@@ -7,12 +7,12 @@
 
 
 <h2>🍰 Anggota Kelompok:</h2>
-
-Centrico 2331222 
-Franstinonata 2331090 
-Flobert Santoso 2331250
-Jeffen Tang 2331120
-
+<ul>
+<li>Centrico 2331222 </li>
+<li>Franstinonata 2331090 </li>
+<li>Flobert Santoso 2331250</li>
+<li>Jeffen Tang 2331120</li>
+</ul>
   
   
 <h2>💻 Built with</h2>
