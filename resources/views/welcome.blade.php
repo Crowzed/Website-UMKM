@@ -17,11 +17,6 @@
 
 <!------------------------------------------------->
 
-<section class="h-96 md:hidden block  md:h-screen bg-transparent md:bg-contain bg-center bg-no-repeat" style="background-image: url('./Asset/peakpx.jpg');">
-   <div class="flex justify-center items-center h-full align-middle ">
-        <img class="max-w-56 md:max-w-sm" src="./Asset/KVC_gradient.png" alt="">
-    </div>
-</section>
 <section class=" bg-gray-900 py-20 flex items-center px-5 lg:px-20 rounded-lg transition-all hover:scale-110" id="about">
     <div class="flex flex-col gap-10">
         <div class="flex flex-col gap-5">
